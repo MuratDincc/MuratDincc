@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [muratdinc.dev](muratdinc.dev)
+- 👨‍💻 All of my projects are available at [https://muratdinc.dev](https://muratdinc.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@muratdincc](https://medium.com/@muratdincc)
 
