@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate Software Architect from Turkey</h3>
+
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/11591845-876c-42b5-b701-5b8b21371c7f" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png" alt="Microsoft MVP" width="200"/>
+  </a>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://muratdinc.dev](https://muratdinc.dev)
 
