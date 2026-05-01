@@ -71,22 +71,3 @@
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   </p>
-
-  ---
-
-  ### 📊 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muratdincc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"
-  height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratdincc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratdincc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"
-  height="170"/>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muratdincc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </p>
