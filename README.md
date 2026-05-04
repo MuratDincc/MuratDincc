@@ -1,10 +1,14 @@
-  <h1 align="center">Hi 👋, I'm Murat Dinç</h1>
-  <h3 align="center">Software Architect · Microsoft MVP · From Turkey 🇹🇷</h3>
+<h1 align="center">Hi, I'm Murat Dinç</h1>
+  <h3 align="center">Software Architect · Microsoft MVP · Turkey</h3>
 
   <p align="center">
     <a href="https://mvp.microsoft.com/en-US/MVP/profile/11591845-876c-42b5-b701-5b8b21371c7f" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft-MVP-F25022?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"/>
+      <img src="https://muratdinc.dev/wp-content/uploads/2025/01/MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB-300x121.png" alt="Microsoft MVP"
+  height="60"/>
     </a>
+  </p>
+
+  <p align="center">
     <a href="https://muratdinc.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-muratdinc.dev-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
@@ -15,17 +19,17 @@
 
   ---
 
-  ### 🧑‍💻 About Me
+  ### About
 
-  - 🔭 I work as a **Software Architect**, designing scalable .NET and cloud-native systems
-  - 🌐 All of my projects live at **[muratdinc.dev](https://muratdinc.dev)**
-  - ✍️ I regularly write articles on **[Medium](https://medium.com/@muratdincc)**
-  - 📫 Reach me at **info@muratdinc.dev**
-  - ⚡ Fun fact: I love sharing what I learn with the developer community
+  I work as a Software Architect, designing scalable .NET and cloud-native systems.
+
+  - All of my projects live at [muratdinc.dev](https://muratdinc.dev)
+  - I regularly write articles on [Medium](https://medium.com/@muratdincc)
+  - Reach me at **info@muratdinc.dev**
 
   ---
 
-  ### 🌍 Connect with Me
+  ### Connect
 
   <p align="left">
     <a href="https://www.linkedin.com/in/murat-dinç-a4081135/" target="_blank">
@@ -41,7 +45,7 @@
 
   ---
 
-  ### 🛠️ Tech Stack
+  ### Tech Stack
 
   **Languages & Frameworks**
 
